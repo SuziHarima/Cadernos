@@ -1,0 +1,13 @@
+package com.anotacoes.caderno;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CadernoNotesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CadernoNotesApplication.class, args);
+	}
+
+}
